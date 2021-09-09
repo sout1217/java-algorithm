@@ -1,0 +1,12 @@
+# Project exclude paths
+/out/
+.idea
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../:\JavaProject\2021\java-algorithm\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+java-algorithm.iml
